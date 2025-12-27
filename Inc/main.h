@@ -27,7 +27,7 @@ extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f1xx_hal.h"
+#include "stm32f1xx_hal.h" //For the BluePill's HAL library. Replace as needed.
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -67,3 +67,4 @@ void Error_Handler(void);
 #endif
 
 #endif /* __MAIN_H */
+
