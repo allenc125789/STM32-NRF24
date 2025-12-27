@@ -1,5 +1,5 @@
 
-#include "stm32f1xx_hal.h"
+#include "stm32f1xx_hal.h" //For the BluePill's HAL library. Replace as needed.
 
 #ifndef INC_NRF24L01_H_
 #define INC_NRF24L01_H_
