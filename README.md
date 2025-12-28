@@ -12,5 +12,5 @@ A 'Hello World' example of the project. Built around the STM32 **BluePill DevBoa
 ![STM32CubeIDE pinout.](https://github.com/allenc125789/STM32-NRF24/blob/example-helloworld/documents/Screenshot%20from%202025-12-28%2002-27-09.png)
 
 
-## Clock-Settings
+## Clock Settings
 ![STM32CubeIDE clock settings.](https://github.com/allenc125789/STM32-NRF24/blob/example-helloworld/documents/Screenshot%20from%202025-12-28%2002-26-35.png)
