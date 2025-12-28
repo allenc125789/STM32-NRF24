@@ -5,4 +5,5 @@ A 'Hello World' example of the project. Built around the STM32 **BluePill DevBoa
 ## How to use:
 + Generate 2 project workspaces and initial code using STM32CubeIDE. One for TX, and another for RX.
 + Drop the files in their respective folders (Inc & Src).
++ Edit the User code to match your specific chip pinout.
 + Flash to STM32 through JLink
