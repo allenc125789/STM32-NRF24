@@ -1,5 +1,8 @@
 # Example-HelloWorld
 
-A 'Hello World' example of the project. Utilizes the STM32 *BluePill* DevBoard.
+A 'Hello World' example of the project. Built around the STM32 *BluePill* DevBoard (STM32F103C8T6).
 
-Initial code was generated using STM32CubeIDE for the STM32F103C8T6 IC.
+## How to use:
++ Generate 2 project workspaces and initial code using STM32CubeIDE. One for TX, and another for RX.
++ Drop the files in their respective folders (Inc & Src).
++ Flash to STM32 through JLink
